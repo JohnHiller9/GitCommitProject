@@ -7,6 +7,7 @@ namespace GitCommitProject
         static void Main(string[] args)
         {
           // Hi!
+          // This is a test.
         }
     }
 }
